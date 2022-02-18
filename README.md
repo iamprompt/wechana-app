@@ -9,6 +9,8 @@ WeChana, a mobile application for logging users' presences at a location using G
 | 6288087 | Supakarn Laorattanakul |
 | 6288123 | Thanaboon Sapmontree   |
 
+![This is an image](assets/wechana-mockup-1.png)
+
 ## Getting Started
 
 This project is a starting point for a Flutter application.
