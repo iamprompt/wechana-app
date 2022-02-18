@@ -1,7 +1,7 @@
 import 'package:flutter/material.dart';
 
-class HistoryPage extends StatelessWidget {
-  const HistoryPage({Key? key}) : super(key: key);
+class ProfilePage extends StatelessWidget {
+  const ProfilePage({Key? key}) : super(key: key);
 
   @override
   Widget build(BuildContext context) {
@@ -13,7 +13,7 @@ class HistoryPage extends StatelessWidget {
       //   foregroundColor: Colors.yellow,
       // ),
       body: Center(
-        child: Text('History'),
+        child: Text('Profile'),
       ),
     );
   }
